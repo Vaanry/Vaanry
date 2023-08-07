@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Yulia Kolesnikova, and I am PhD in biology. 
 <!--
 **Vaanry/Vaanry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
