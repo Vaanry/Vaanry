@@ -1,5 +1,5 @@
-<div id="header" align="center"><h3> Hi there, my name is Yulia Kolesnikova.</h></div>
-<div align="center"><h4>I am Data Analyst and PhD in biology.</h> </div>
+<div id="header" align="center"><h3> Hi there, my name is Yulia Kolesnikova.</h>
+<h4>I am Data Analyst and PhD in biology.</h> </div>
 </b>
 <div id="socials" align="center"><div id="badges">
   <a href="https://www.linkedin.com/in/yulia-kolesnikova-5a1b59165/">
@@ -11,7 +11,7 @@
 </div>
 </div>
 <div id="badges" align="center"><img src="https://komarev.com/ghpvc/?username=vaanry&style=flat-square&color=red" alt=""/></div>
-<div align="center">
+<div align="center">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
