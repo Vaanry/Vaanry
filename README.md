@@ -1,17 +1,29 @@
-<div id="header" align="center"><h3> Hi there, my name is Yulia Kolesnikova.</h>
-<h4>I am Data Analyst and PhD in biology:woman_scientist:</h> </div>
-</b>
-<div id="socials" align="center"><div id="badges">
+<div id="header" align="center"><h3> Hi there, my name is Yulia Kolesnikova.</h></div>
+ <div id="socials" align="center"><div id="badges">
   <a href="https://www.linkedin.com/in/yulia-kolesnikova-5a1b59165/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Vaanry">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+</div> 
+  <div id="badges" align="center"><img src="https://komarev.com/ghpvc/?username=vaanry&style=flat-square&color=red" alt=""/></div>
+<div align="left">&nbsp;
+  
+### :woman_technologist: Shortly about Me :
+ 
+- :woman_scientist: I am Data Analyst.
+
+- :dna: PhD in biology.
+
+- 🌱 Currently I am actively mastering Data Science and Machine Learning .
+  
+ ---
+ 
+</b>
+
 </div>
-</div>
-<div id="badges" align="center"><img src="https://komarev.com/ghpvc/?username=vaanry&style=flat-square&color=red" alt=""/></div>
-<div align="center">&nbsp;
+
   
   ### :hammer_and_wrench: Languages and Tools : &nbsp;
   
@@ -30,7 +42,8 @@
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
   
-</div>
+  
+ ---
 <!--
 **Vaanry/Vaanry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
