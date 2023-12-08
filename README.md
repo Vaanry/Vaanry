@@ -10,7 +10,7 @@
   <div id="badges" align="center"><img src="https://komarev.com/ghpvc/?username=vaanry&style=flat-square&color=red" alt=""/></div>
 <div align="left">&nbsp;
   
-### :woman_technologist: Shortly about Me :
+### Shortly about Me : 
  
 - :woman_scientist: I am Data Analyst.
 
