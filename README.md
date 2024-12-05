@@ -11,7 +11,7 @@
   <div id="badges" align="center"><img src="https://komarev.com/ghpvc/?username=vaanry&style=flat-square&color=red" alt=""/></div>
 <div align="left">&nbsp;
  
-I am a **Data Analyst** and **Python Developer** with a PhD in Biology. My focus is on **Data Science**, **Machine Learning**, and automating data workflows. I'm passionate about turning complex datasets into actionable insights.
+I am a **Python Developer** and **Data Analyst** with a PhD in Biology. My focus is on **Data Science**, **Machine Learning**, and automating data workflows. I'm passionate about turning complex datasets into actionable insights.
  
 ### :woman_scientist: About Me:  
 
@@ -24,7 +24,8 @@ I am a **Data Analyst** and **Python Developer** with a PhD in Biology. My focus
 
 Here are some of my notable projects:  
 
-- **[Telegram store](https://github.com/Vaanry/Telegram-store)**: Telegram bot for online store with payment via CryptoCloud.  
+- **[Telegram store](https://github.com/Vaanry/Telegram-store)**: Telegram bot for online store with payment via CryptoCloud.
+- **[FastApi Motostore](https://github.com/Vaanry/FastApi-Motostore)**: Web application using FastAPI, Telegram store add-on.  
 - **[Driving_License_OCR](https://github.com/Vaanry/Driving_License_OCR)**: Automated recognition and processing of US driver's licenses using ResNet, YOLO8, TrOCR.  
 - **[Motoblog](https://github.com/Vaanry/motoblog?tab=readme-ov-file#motoblog)**: Django application including blog, personal account, personal messages and motorcycle price calculator (using Catboost).  
 
