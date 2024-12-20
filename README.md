@@ -27,7 +27,8 @@ Here are some of my notable projects:
 - **[Telegram store](https://github.com/Vaanry/Telegram-store)**: Telegram bot for online store with payment via CryptoCloud.
 - **[FastApi Motostore](https://github.com/Vaanry/FastApi-Motostore)**: Web application using FastAPI, Telegram store add-on.  
 - **[Driving_License_OCR](https://github.com/Vaanry/Driving_License_OCR)**: Automated recognition and processing of US driver's licenses using ResNet, YOLO8, TrOCR.  
-- **[Motoblog](https://github.com/Vaanry/motoblog?tab=readme-ov-file#motoblog)**: Django application including blog, personal account, personal messages and motorcycle price calculator (using Catboost).  
+- **[Motoblog](https://github.com/Vaanry/motoblog?tab=readme-ov-file#motoblog)**: Django application including blog, personal account, personal messages and motorcycle price calculator (using Catboost).
+- **[Plant_community](https://github.com/Vaanry/Plant_community)**: A Flask-based platform for plant enthusiasts, offering a plant catalog, real-time chat, and personal plant collections.
 
 ➡️ See more on my [repositories](https://github.com/Vaanry?tab=repositories).  
 
